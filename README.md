@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Newzpc
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on anything related to coding.
 - 📫 How to reach me by my discord
 
 <!---
