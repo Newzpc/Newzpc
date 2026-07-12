@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Newzpc
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything related to coding.
-- 📫 How to reach me by my discord
+# 👋 Hi, I'm NewZ!
 
-<!---
-Newzpc/Newzpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 About Me
+* 🚀 Incoming **Math & Computer Science** freshman (L1)
+* 🛠️ Aspiring **Network Architect / Cloud Engineer**
+
+### 🌐 Current Projects & Home Lab
+* 🖥️ **Hardware:** Raspberry Pi 5 (Debian Trixie)
+* 🛡️ **VPN Gateway:** Building a dual-tunnel WireGuard setup (`wg0`/`wg1`) with custom routing and NAT (`iptables`).
+* 🐍 **Learning:** Network automation and scripting with **Python** & **Bash**.
+
+---
+📬 Hit me up on Discord!
